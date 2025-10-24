@@ -55,14 +55,15 @@ Each service is independently deployable, scalable, and designed with **Spring C
 
 ## 🧠 **Microservices Overview**
 
-| Service Name | Responsibility |
-|---------------|----------------|
-| **User Service** | Authentication role, & user management |
-| **Patient Service** | Patient data & profiles |
-| **Appointment Service** | Booking & scheduling |
-| **Notification Service** | Email/SMS alerts & reminders |
-| **Emergency Service** | Emergency department operations |
-| **Laboratory Service** | Test orders & results management |
+| Service Name             | Responsibility                          |
+|--------------------------|-----------------------------------------|
+| **Admin Service**        | Authentication, role, & user management |
+| **Staff Service**        | Staff Management                        |
+| **Patient Service**      | Patient data & profiles                 |
+| **Appointment Service**  | Booking & scheduling                    |
+| **Notification Service** | Email/SMS alerts & reminders            |
+| **Emergency Service**    | Emergency department operations         |
+| **Laboratory Service**   | Test orders & results management        |
 
 ---
 
