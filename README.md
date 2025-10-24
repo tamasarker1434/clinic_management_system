@@ -57,10 +57,9 @@ Each service is independently deployable, scalable, and designed with **Spring C
 
 | Service Name | Responsibility |
 |---------------|----------------|
-| **User Service** | Authentication & user management |
+| **User Service** | Authentication role, & user management |
 | **Patient Service** | Patient data & profiles |
 | **Appointment Service** | Booking & scheduling |
-| **Staff Service** | Employee & role management |
 | **Notification Service** | Email/SMS alerts & reminders |
 | **Emergency Service** | Emergency department operations |
 | **Laboratory Service** | Test orders & results management |
